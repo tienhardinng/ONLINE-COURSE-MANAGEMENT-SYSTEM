@@ -1,10 +1,5 @@
 # ============================================================
 # enrollment_management.py
-# Quan ly Dang Ky Hoc & Tien Do
-# [DA THEM] get_all_enrollments()
-# [DA THEM] get_enrollment_by_id()
-# [DA THEM] delete_enrollment()
-# [DA THEM] get_learners_by_course()
 # ============================================================
 
 from db_connection import get_connection, close_connection

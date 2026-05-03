@@ -1,13 +1,5 @@
 # ============================================================
 # course_management.py
-# Quan ly Giang Vien, Khoa Hoc, Bai Giang - CRUD day du
-# [DA THEM] update_instructor()
-# [DA THEM] delete_instructor()
-# [DA THEM] delete_course()
-# [DA THEM] update_lecture()
-# [DA THEM] delete_lecture()
-# [DA THEM] search_course_by_name()
-# [DA THEM] get_course_by_id()
 # ============================================================
 
 from db_connection import get_connection, close_connection

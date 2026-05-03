@@ -1,7 +1,6 @@
 # ============================================================
 # main.py
-# Giao Dien CLI Hoan Chinh - Online Course Management System
-# Dap ung 100% yeu cau de bai PROJECT 04
+# Online Course Management System
 # ============================================================
 
 import os

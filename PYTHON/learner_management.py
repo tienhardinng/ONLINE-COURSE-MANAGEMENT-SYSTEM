@@ -1,8 +1,5 @@
 # ============================================================
 # learner_management.py
-# Quan ly Hoc Vien - CRUD day du
-# [DA THEM] search_learner_by_name()
-# [DA THEM] get_learner_by_id()
 # ============================================================
 
 from db_connection import get_connection, close_connection

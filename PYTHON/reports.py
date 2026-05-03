@@ -1,11 +1,5 @@
 # ============================================================
 # reports.py
-# Bao Cao & Thong Ke - day du theo yeu cau de bai
-# [DA THEM] report_enrollment_statistics()  - thong ke Active/Completed/Dropped
-# [DA THEM] report_top_courses()            - top 5 khoa nhieu hoc vien nhat
-# [DA CO]   report_active_courses()         - tong quan tat ca khoa hoc
-# [DA CO]   report_instructor_workload()    - khoi luong giang vien
-# [DA CO]   report_learner_progress()       - tien do mot hoc vien
 # ============================================================
 
 from db_connection import get_connection, close_connection
