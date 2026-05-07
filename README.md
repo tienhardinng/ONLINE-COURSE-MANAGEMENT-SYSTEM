@@ -10,7 +10,6 @@
 | Resource | Link |
 |---|---|
 | GitHub Repository | https://github.com/tienhardinng/ONLINE-COURSE-MANAGEMENT-SYSTEM |
-| Demo Video | *(YouTube link)* |
 
 ---
 
